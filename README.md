@@ -33,6 +33,17 @@ $ tree
 ├── Test images/
 └── Samples/
 
+---
+
+## Libraries Used
+
+- `TensorFlow 2.x`
+- `Keras`
+- `Matplotlib`, `NumPy`
+- `sklearn` (for metrics)
+
+---
+
 ## Data Optimization Pipeline
 
 To ensure efficient and balanced training, the following preprocessing steps were applied:
@@ -68,15 +79,6 @@ To ensure efficient and balanced training, the following preprocessing steps wer
 - **Output**: Softmax layer with 5 classes
 - **Pooling method**: Used `Flatten()` instead of GlobalAveragePooling2D due to better results
 
-
----
-
-## Libraries Used
-
-- `TensorFlow 2.x`
-- `Keras`
-- `Matplotlib`, `NumPy`
-- `sklearn` (for metrics)
 
 ---
 
