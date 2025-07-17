@@ -25,14 +25,13 @@ This notebook trains a deep learning model to classify galaxy images from the Ga
 ---
 
 ## Directory Structure
-$ tree
-.
+```
 ├── galaxyClassification.ipynb
 ├── images/
 ├── Training images/
 ├── Test images/
 └── Samples/
-
+```
 ---
 
 ## Libraries Used
