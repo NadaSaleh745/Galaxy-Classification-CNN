@@ -12,6 +12,7 @@
 - [Classification Report](#-classification-report)
 - [Sample Predictions](#-sample-predictions)
 
+
 ## Data
 
 This notebook trains a deep learning model to classify galaxy images from the Galaxy Zoo 2 dataset (28,799 images) into five distinct morphological types. The model uses data augmentation, convolutional layers, and regularization to improve accuracy and reduce overfitting.
@@ -97,7 +98,7 @@ After training, the model achieved **94.18%** accuracy on the test set, with str
 **Test Accuracy:** `0.9418`
 
 ---
-## 🔭 Sample Predictions
+## Sample Predictions
 
 You can use the `Samples/` folder to test new galaxy images.  
 The model predicts the galaxy type with high confidence in most cases.
