@@ -3,13 +3,13 @@
 
 ## Table of Contents
 - [Data](#-data)
-- [Directory Structure](#-directory-structure)
-- [Data Optimization Pipeline](#-data-optimization-pipeline)
-- [Model Architecture](#-model-architecture)
-- [Libraries Used](#-libraries-used)
-- [Final Model Performance](#-final-model-performance)
-- [Classification Report](#-classification-report)
-- [Sample Predictions](#-sample-predictions)
+- [Directory Structure](#directory-structure)
+- [Data Optimization Pipeline](#data-optimization-pipeline)
+- [Model Architecture](#model-architecture)
+- [Libraries Used](#libraries-used)
+- [Final Model Performance](#final-model-performance)
+- [Classification Report](#classification-report)
+- [Sample Predictions](#sample-predictions)
 
 
 ## Data
@@ -25,6 +25,7 @@ This notebook trains a deep learning model to classify galaxy images from the Ga
 ---
 
 ## Directory Structure
+$ tree
 .
 ├── galaxyClassification.ipynb
 ├── images/
