@@ -1,5 +1,4 @@
 # Galaxy-Classification
-# Galaxy Morphology Classification
 
 
 ## Table of Contents
