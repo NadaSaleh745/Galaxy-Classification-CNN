@@ -2,7 +2,7 @@
 ## Galaxy Morphology Classification (Galaxy Zoo 2 Dataset – 28,790 Images)
 
 ## Table of Contents
-- [Data](#-data)
+- [Data](#data)
 - [Directory Structure](#directory-structure)
 - [Data Optimization Pipeline](#data-optimization-pipeline)
 - [Model Architecture](#model-architecture)
